@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a library that depends on native modules. The library may not be compatible with Expo Go, or there may be a conflict between the library and other dependencies. This can lead to errors during build or runtime. 
