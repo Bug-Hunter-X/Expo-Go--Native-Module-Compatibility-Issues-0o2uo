@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered when using a library with native modules in an Expo app. The bug manifests as a runtime error or a failure to build the app using Expo Go. The solution involves adjusting the app's configuration to handle the library's native module dependencies appropriately.
